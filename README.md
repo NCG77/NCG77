@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey There
+My name is Swastik Mishra.
 
-<!--
-**NCG77/NCG77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am an undergraduate student at Vellore Institute of Technology majoring in Computer Science. As a tech enthusiast, I am passionate about exploring new technologies and building impactful products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+- Machine Learning and AI
+- Physical Systems
+- Video Games
+- Robotics
+
+## Skills and Expertise
+
+- Python, Machine Learning, Deep Learning, Computer Vision, NLP, Web Development, Native Mobile Development, C++, Java, TypeScript, Rust, Go, SQL
+
+## Contact Me
+
+[LinkedIn](https://www.linkedin.com/in/swastik-mishra-819091303) | [Stack Overflow](https://stackoverflow.com/users/28377258/swastik-mishra) | [Instagram](https://www.instagram.com/swastikmishra79/profilecard/?igsh=b3pla2VycGthZjJs)
