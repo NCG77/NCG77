@@ -46,22 +46,23 @@ Bridging **Web • AI • Cloud**
 
 ⚡ Real-world use case: AI companions, personalized assistants
 
-👉 *Next Step:* Add **vector DB + RAG + embeddings**
+👉 *Goal:* Add **vector DB + RAG + embeddings**
 
 ---
 
-### 🔹 MarkDarshan (AI-Driven Vehicle-Aware Route Optimization Engine)
+### 🔹 [Nutrimentation - AI-Powered Nutrition Analysis Platform](https://github.com/NCG77/Nutrimentation)
 
-> Advanced routing system that leverages AI to generate optimal paths based on vehicle specifications and real-world constraints
+> Intelligent nutrition analysis system that combines barcode scanning, multimodal AI, and web-enriched food intelligence to deliver personalized dietary insights
 
-* AI-driven route optimization using heuristic + rule-based scoring
-* Constraint-aware navigation (bridge limits, road restrictions, traffic conditions)
-* Dynamic route recalculation with real-time data inputs
-* Scalable backend architecture for handling routing logic and data processing
+* AI-powered food analysis using barcode scanning and multimodal input processing
+* Scan or manually enter product barcodes for instant nutrition breakdown
+* Web-enriched food intelligence with ingredient analysis and health insights
+* Personalized summaries based on user preferences and dietary context
+* Cross-platform PWA experience optimized for both mobile and web
 
-⚡ Real-world use case: Logistics, delivery optimization, fleet management
+⚡ *Real-world use case:* Smart health tracking, dietary planning, and AI-assisted nutrition guidance
 
-👉 *Next Step:* Integrate **ML-based route prediction + real-time geospatial analytics + cloud deployment (AWS + Docker)**
+👉 *Goal:* Integrate **RAG-based nutritional intelligence + AI meal recommendations + health risk analysis**
 
 ---
 
