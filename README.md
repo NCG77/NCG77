@@ -50,19 +50,19 @@ Bridging **Web • AI • Cloud**
 
 ---
 
-### 🔹 [Nutrimentation - AI-Powered Nutrition Analysis Platform](https://github.com/NCG77/Nutrimentation)
+### 🔹 [Tuff - AI-Powered Cloud Intelligence Platform](https://tuff-phi.vercel.app/)
 
-> Intelligent nutrition analysis system that combines barcode scanning, multimodal AI, and web-enriched food intelligence to deliver personalized dietary insights
+> Intelligent cloud operations platform that combines FinOps principles, security analysis, and AI-driven insights to optimize infrastructure costs and improve operational efficiency
 
-* AI-powered food analysis using barcode scanning and multimodal input processing
-* Scan or manually enter product barcodes for instant nutrition breakdown
-* Web-enriched food intelligence with ingredient analysis and health insights
-* Personalized summaries based on user preferences and dietary context
-* Cross-platform PWA experience optimized for both mobile and web
+* AI-powered cloud cost analysis using infrastructure, usage, and billing data
+* Detection of idle, underutilized, and misconfigured cloud resources
+* Security posture monitoring with anomaly detection and risk identification
+* Conversational cloud assistant for natural language querying and actionable recommendations
+* Historical analytics for tracking spending trends and infrastructure optimization opportunities
 
-⚡ *Real-world use case:* Smart health tracking, dietary planning, and AI-assisted nutrition guidance
+⚡ *Real-world use case:* FinOps automation, cloud governance, security monitoring, and intelligent cloud operations for organizations of all sizes
 
-👉 *Goal:* Integrate **RAG-based nutritional intelligence + AI meal recommendations + health risk analysis**
+👉 *Goal:* Integrate **multi-cloud support + RAG-based infrastructure intelligence + predictive cost forecasting + automated remediation workflows**
 
 ---
 
