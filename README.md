@@ -20,6 +20,12 @@ Bridging **Web • AI • Cloud**
 
 ---
 
+## 🏆 Certifications
+
+- [AWS Certified Solutions Architect – Associate (2026)](https://www.credly.com/badges/94d4f7a4-19ee-46fa-96c8-8668fb97d796/public_url)
+
+---
+
 ## Flagship Projects
 
 ### 🔹 [SafeRoute - AI-Powered Route Optimization App](https://saferoutesio.netlify.app/)
