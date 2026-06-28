@@ -84,7 +84,7 @@ Bridging **Web • AI • Cloud**
     </td>
     <td>
       <b>Cloud & DevOps</b><br/>
-      - AWS (learning → deploying phase)<br/>
+      - AWS<br/>
       - Docker (containerization)<br/>
       - Firebase<br/>
     </td>
@@ -94,7 +94,7 @@ Bridging **Web • AI • Cloud**
   <tr>
     <td>
       <b>AI / ML</b><br/>
-      - RAG (learning phase)<br/>
+      - RAG <br/>
       - LLM APIs + prompt engineering<br/>
       - Data pipelines<br/>
     </td>
