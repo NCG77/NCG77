@@ -1,104 +1,113 @@
 {
-  "$schema": "./profile.config.schema.json",
-  "github": {
-    "username": "NCG77",
-    "featuredRepos": [
-      {
-        "repo": "NCG77/Tuff",
-        "solidButton": true,
-        "ctaLabel": "Visit Tuff",
-        "ctaArrow": null,
-        "showRepoPath": false,
-        "projectUrl": "https://tuff-phi.vercel.app/",
-        "showBanner": true,
-        "autoOgImage": true,
-        "ogSourceUrl": "https://tuff-phi.vercel.app/",
-        "bannerUrl": ""
-      },
-      {
-        "repo": "NCG77/Engram-main",
-        "solidButton": true,
-        "ctaLabel": "Visit Engram",
-        "ctaArrow": null,
-        "showRepoPath": false,
-        "projectUrl": "https://engram-teal.vercel.app/",
-        "showBanner": true,
-        "autoOgImage": true,
-        "ogSourceUrl": "https://engram-teal.vercel.app/",
-        "bannerUrl": ""
-      },
-      {
-        "repo": "NCG77/SafeRoute",
-        "solidButton": true,
-        "ctaLabel": "Visit SafeRoute",
-        "ctaArrow": null,
-        "showRepoPath": false,
-        "projectUrl": "https://saferoutesio.netlify.app/",
-        "showBanner": true,
-        "autoOgImage": true,
-        "ogSourceUrl": "https://saferoutesio.netlify.app/",
-        "bannerUrl": ""
-      }
-    ],
-    "moreRepos": []
-  },
-  "projects": {
-    "bannersEnabled": true,
-    "autoOgImages": true,
-    "bannerHeight": 220,
-    "bannerFit": "contain"
-  },
-  "profile": {
-    "name": "Swastik Mishra",
-    "handle": "@NCG77",
-    "role": "AI Systems & Cloud Engineer",
-    "intro": "AWS Certified Solutions Architect engineering production AI systems, FinOps platforms, and scalable cloud infrastructure.",
-    "status": "building agentic cloud & RAG systems",
-    "focus": "AI • AWS • Systems",
-    "state": "active",
-    "links": [
-      { "label": "aws-saa", "url": "https://www.credly.com/badges/94d4f7a4-19ee-46fa-96c8-8668fb97d796/public_url" },
-      { "label": "linkedin", "url": "https://www.linkedin.com/in/swastik-mishra-819091303" },
-      { "label": "x", "url": "https://x.com/Swastik_707" },
-      { "label": "email", "url": "mailto:Swastikmishra7979@gmail.com" }
-    ]
-  },
-  "theme": {
-    "page": "#181818",
-    "panel": "#202020",
-    "well": "#262626",
-    "text1": "#f2f2f2",
-    "text2": "#c7c7c7",
-    "text3": "#999999",
-    "line": "#343434",
-    "lineFaint": "#292929",
-    "accent": "#ffd400",
-    "accentText": "#ffd400",
-    "selected": "#3a3107",
-    "ok": "#c7c7c7",
-    "warn": "#b0b0b0",
-    "fail": "#e0e0e0",
-    "languageFallback": "#999999",
-    "auroraPalette": ["#121212", "#343434", "#5a5a5a", "#786700", "#c9a900", "#ffd400"]
-  },
-  "motion": {
-    "enabled": true,
-    "speed": 1,
-    "auroraDuration": 9,
-    "auroraFps": 30,
-    "pendingDuration": 0.8
-  },
-  "effects": {
-    "dither": true,
-    "ditherScale": 4,
-    "ditherStrength": 0.82,
-    "animatedAurora": true,
-    "pendingMark": true
-  },
-  "layout": {
-    "width": 880,
-    "projectColumns": 2,
-    "showStats": true,
-    "showUpdatedAt": true
-  }
+    "$schema":  "./profile.config.schema.json",
+    "github":  {
+                   "username":  "NCG77",
+                   "featuredRepos":  [
+                                         {
+                                             "repo":  "NCG77/Tuff",
+                                             "solidButton":  true,
+                                             "ctaLabel":  "Visit Tuff",
+                                             "ctaArrow":  null,
+                                             "showRepoPath":  false,
+                                             "projectUrl":  "https://tuff-phi.vercel.app/",
+                                             "showBanner":  true,
+                                             "autoOgImage":  true,
+                                             "ogSourceUrl":  "https://tuff-phi.vercel.app/",
+                                             "bannerUrl":  ""
+                                         },
+                                         {
+                                             "repo":  "NCG77/Engram-main",
+                                             "solidButton":  true,
+                                             "ctaLabel":  "Visit Engram",
+                                             "ctaArrow":  null,
+                                             "showRepoPath":  false,
+                                             "projectUrl":  "https://engram-teal.vercel.app/",
+                                             "showBanner":  true,
+                                             "autoOgImage":  true,
+                                             "ogSourceUrl":  "https://engram-teal.vercel.app/",
+                                             "bannerUrl":  ""
+                                         }
+                                     ],
+                   "moreRepos":  [
+
+                                 ]
+               },
+    "projects":  {
+                     "bannersEnabled":  true,
+                     "autoOgImages":  true,
+                     "bannerHeight":  220,
+                     "bannerFit":  "contain"
+                 },
+    "profile":  {
+                    "name":  "Swastik Mishra",
+                    "handle":  "@NCG77",
+                    "role":  "AI Systems \u0026 Cloud Engineer",
+                    "intro":  "AWS Certified Solutions Architect engineering production AI systems, FinOps platforms, and scalable cloud infrastructure.",
+                    "status":  "building agentic cloud \u0026 RAG systems",
+                    "focus":  "AI â€¢ AWS â€¢ Systems",
+                    "state":  "active",
+                    "links":  [
+                                  {
+                                      "label":  "aws-saa",
+                                      "url":  "https://www.credly.com/badges/94d4f7a4-19ee-46fa-96c8-8668fb97d796/public_url"
+                                  },
+                                  {
+                                      "label":  "linkedin",
+                                      "url":  "https://www.linkedin.com/in/swastik-mishra-819091303"
+                                  },
+                                  {
+                                      "label":  "x",
+                                      "url":  "https://x.com/Swastik_707"
+                                  },
+                                  {
+                                      "label":  "email",
+                                      "url":  "mailto:Swastikmishra7979@gmail.com"
+                                  }
+                              ]
+                },
+    "theme":  {
+                  "page":  "#181818",
+                  "panel":  "#202020",
+                  "well":  "#262626",
+                  "text1":  "#f2f2f2",
+                  "text2":  "#c7c7c7",
+                  "text3":  "#999999",
+                  "line":  "#343434",
+                  "lineFaint":  "#292929",
+                  "accent":  "#ffd400",
+                  "accentText":  "#ffd400",
+                  "selected":  "#3a3107",
+                  "ok":  "#c7c7c7",
+                  "warn":  "#b0b0b0",
+                  "fail":  "#e0e0e0",
+                  "languageFallback":  "#999999",
+                  "auroraPalette":  [
+                                        "#121212",
+                                        "#343434",
+                                        "#5a5a5a",
+                                        "#786700",
+                                        "#c9a900",
+                                        "#ffd400"
+                                    ]
+              },
+    "motion":  {
+                   "enabled":  true,
+                   "speed":  1,
+                   "auroraDuration":  9,
+                   "auroraFps":  30,
+                   "pendingDuration":  0.8
+               },
+    "effects":  {
+                    "dither":  true,
+                    "ditherScale":  4,
+                    "ditherStrength":  0.82,
+                    "animatedAurora":  true,
+                    "pendingMark":  true
+                },
+    "layout":  {
+                   "width":  880,
+                   "projectColumns":  2,
+                   "showStats":  true,
+                   "showUpdatedAt":  true
+               }
 }
