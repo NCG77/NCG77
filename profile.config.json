@@ -11,9 +11,9 @@
                                              "showRepoPath":  false,
                                              "projectUrl":  "https://tuff-phi.vercel.app/",
                                              "showBanner":  true,
-                                             "autoOgImage":  true,
+                                             "autoOgImage":  false,
                                              "ogSourceUrl":  "https://tuff-phi.vercel.app/",
-                                             "bannerUrl":  ""
+                                             "bannerUrl":  "https://s0.wp.com/mshots/v1/https%3A%2F%2Ftuff-phi.vercel.app%2F?w=1200\u0026h=630"
                                          },
                                          {
                                              "repo":  "NCG77/Engram-main",
@@ -23,9 +23,9 @@
                                              "showRepoPath":  false,
                                              "projectUrl":  "https://engram-teal.vercel.app/",
                                              "showBanner":  true,
-                                             "autoOgImage":  true,
+                                             "autoOgImage":  false,
                                              "ogSourceUrl":  "https://engram-teal.vercel.app/",
-                                             "bannerUrl":  ""
+                                             "bannerUrl":  "https://s0.wp.com/mshots/v1/https%3A%2F%2Fengram-teal.vercel.app%2F?w=1200\u0026h=630"
                                          }
                                      ],
                    "moreRepos":  [
@@ -36,7 +36,7 @@
                      "bannersEnabled":  true,
                      "autoOgImages":  true,
                      "bannerHeight":  220,
-                     "bannerFit":  "contain"
+                     "bannerFit":  "cover"
                  },
     "profile":  {
                     "name":  "Swastik Mishra",
@@ -44,7 +44,7 @@
                     "role":  "AI Systems \u0026 Cloud Engineer",
                     "intro":  "AWS Certified Solutions Architect engineering production AI systems, FinOps platforms, and scalable cloud infrastructure.",
                     "status":  "building agentic cloud \u0026 RAG systems",
-                    "focus":  "AI Ã¢â‚¬Â¢ AWS Ã¢â‚¬Â¢ Systems",
+                    "focus":  "Gen AI \u0026 Full-Stack",
                     "state":  "active",
                     "links":  [
                                   {
