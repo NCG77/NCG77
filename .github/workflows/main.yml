@@ -33,6 +33,8 @@ jobs:
         run: npm run check
       - name: Fetch GitHub data and render SVGs
         run: npm run build
+      - name: Replace repos card with Tech Stack SVG
+        run: node scripts/append-stack.mjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit generated profile

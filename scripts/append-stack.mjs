@@ -1,8 +1,8 @@
 import fs from 'node:fs';
 import path from 'node:path';
 
-const profileDir = 'profile';
-if (!fs.existsSync(profileDir)) fs.mkdirSync(profileDir, { recursive: true });
+const genDir = path.join('profile', 'generated');
+if (!fs.existsSync(genDir)) fs.mkdirSync(genDir, { recursive: true });
 
 const groups = [
   {
@@ -22,8 +22,8 @@ const groups = [
 function renderStackSvg(mode) {
   const isDark = mode === 'dark';
   const c = isDark
-    ? { bg: '#181818', panel: '#202020', well: '#262626', line: '#343434', text1: '#f2f2f2', text2: '#c7c7c7', text3: '#999999', accent: '#60a5fa' }
-    : { bg: '#f6f6f4', panel: '#ffffff', well: '#f1f5f9', line: '#e2e8f0', text1: '#111827', text2: '#374151', text3: '#6b7280', accent: '#2563eb' };
+    ? { panel: '#202020', well: '#262626', line: '#343434', text1: '#f2f2f2', text3: '#999999', accent: '#60a5fa' }
+    : { panel: '#ffffff', well: '#f1f5f9', line: '#e2e8f0', text1: '#111827', text3: '#6b7280', accent: '#2563eb' };
 
   const width = 880;
   const height = 286;
@@ -56,28 +56,6 @@ function renderStackSvg(mode) {
 </svg>`;
 }
 
-fs.writeFileSync(path.join(profileDir, 'tech-stack-dark.svg'), renderStackSvg('dark'), 'utf8');
-fs.writeFileSync(path.join(profileDir, 'tech-stack-light.svg'), renderStackSvg('light'), 'utf8');
-
-// Update README.md: remove "more/selected repositories" block and insert native Tech Stack SVG
-const readmePath = 'README.md';
-let readme = fs.readFileSync(readmePath, 'utf8');
-
-// Strip any existing "Selected repositories" / "more-repos" picture or img block
-readme = readme.replace(/<p[^>]*>\s*<picture>[\s\S]*?(?:more-repos|selected-repos|repos-)[\s\S]*?<\/picture>\s*<\/p>/gi, '');
-readme = readme.replace(/<picture>[\s\S]*?(?:more-repos|selected-repos|repos-)[\s\S]*?<\/picture>/gi, '');
-readme = readme.replace(/<!-- STACK_SECTION -->[\s\S]*$/gi, '');
-
-const stackPicture = `
-<!-- STACK_SECTION -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/tech-stack-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile/tech-stack-light.svg" />
-    <img alt="Tech Stack and Languages" src="./profile/tech-stack-dark.svg" width="880" />
-  </picture>
-</p>
-`;
-
-fs.writeFileSync(readmePath, readme.trimEnd() + '\n' + stackPicture, 'utf8');
-console.log('Generated native tech-stack SVGs and updated README.md');
+fs.writeFileSync(path.join(genDir, 'repos-dark.svg'), renderStackSvg('dark'), 'utf8');
+fs.writeFileSync(path.join(genDir, 'repos-light.svg'), renderStackSvg('light'), 'utf8');
+console.log('Replaced repos-dark.svg and repos-light.svg with native Tech Stack SVGs.');
