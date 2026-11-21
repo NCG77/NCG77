@@ -75,20 +75,20 @@
                                "text3":  "#999999",
                                "line":  "#343434",
                                "lineFaint":  "#292929",
-                               "accent":  "#ffd400",
-                               "accentText":  "#ffd400",
-                               "selected":  "#3a3107",
+                               "accent":  "#3b82f6",
+                               "accentText":  "#60a5fa",
+                               "selected":  "#0f2547",
                                "ok":  "#c7c7c7",
                                "warn":  "#b0b0b0",
                                "fail":  "#e0e0e0",
                                "languageFallback":  "#999999",
                                "auroraPalette":  [
                                                      "#121212",
-                                                     "#343434",
-                                                     "#5a5a5a",
-                                                     "#786700",
-                                                     "#c9a900",
-                                                     "#ffd400"
+                                                     "#1e293b",
+                                                     "#1d4ed8",
+                                                     "#2563eb",
+                                                     "#3b82f6",
+                                                     "#60a5fa"
                                                  ]
                            },
                   "light":  {
@@ -100,20 +100,20 @@
                                 "text3":  "#707070",
                                 "line":  "#c9c9c2",
                                 "lineFaint":  "#dfdfd9",
-                                "accent":  "#b39200",
-                                "accentText":  "#806900",
-                                "selected":  "#fff1a8",
+                                "accent":  "#2563eb",
+                                "accentText":  "#1d4ed8",
+                                "selected":  "#dbeafe",
                                 "ok":  "#444444",
                                 "warn":  "#656565",
                                 "fail":  "#292929",
                                 "languageFallback":  "#707070",
                                 "auroraPalette":  [
-                                                      "#f4f4f0",
-                                                      "#e5e2cd",
-                                                      "#d5cd95",
-                                                      "#c5b75d",
-                                                      "#b9a52b",
-                                                      "#8a7100"
+                                                      "#f8fafc",
+                                                      "#e2e8f0",
+                                                      "#bfdbfe",
+                                                      "#93c5fd",
+                                                      "#3b82f6",
+                                                      "#2563eb"
                                                   ]
                             }
               },
