@@ -6,15 +6,15 @@ if (!fs.existsSync(genDir)) fs.mkdirSync(genDir, { recursive: true });
 
 const groups = [
   {
-    title: 'AI & AGENTS',
+    title: 'AI &amp; AGENTS',
     items: ['Gemini API', 'LLaMA 3', 'MCP', 'RAG', 'LangChain', 'Ragas', 'Pinecone', 'pgvector']
   },
   {
-    title: 'FULL-STACK & SYSTEMS',
+    title: 'FULL-STACK &amp; SYSTEMS',
     items: ['React', 'Next.js', 'React Native', 'Node.js', 'FastAPI', 'Express', 'PostgreSQL', 'MongoDB']
   },
   {
-    title: 'CLOUD, DEVOPS & LANGUAGES',
+    title: 'CLOUD, DEVOPS &amp; LANGUAGES',
     items: ['AWS (SAA-C03)', 'Docker', 'GitHub Actions', 'Linux', 'Python', 'TypeScript', 'C++', 'SQL']
   }
 ];
@@ -22,8 +22,8 @@ const groups = [
 function renderStackSvg(mode) {
   const isDark = mode === 'dark';
   const c = isDark
-    ? { panel: '#202020', well: '#262626', line: '#343434', text1: '#f2f2f2', text3: '#999999', accent: '#60a5fa' }
-    : { panel: '#ffffff', well: '#f1f5f9', line: '#e2e8f0', text1: '#111827', text3: '#6b7280', accent: '#2563eb' };
+    ? { panel: '#181818', well: '#202020', line: '#343434', text1: '#f2f2f2', text3: '#999999', accent: '#f0b286' }
+    : { panel: '#ffffff', well: '#f8f7f5', line: '#e5e0db', text1: '#111827', text3: '#6b7280', accent: '#b85d2d' };
 
   const width = 880;
   const height = 286;
@@ -58,4 +58,4 @@ function renderStackSvg(mode) {
 
 fs.writeFileSync(path.join(genDir, 'repos-dark.svg'), renderStackSvg('dark'), 'utf8');
 fs.writeFileSync(path.join(genDir, 'repos-light.svg'), renderStackSvg('light'), 'utf8');
-console.log('Replaced repos-dark.svg and repos-light.svg with native Tech Stack SVGs.');
+console.log('Generated valid Copper Tech Stack SVGs.');

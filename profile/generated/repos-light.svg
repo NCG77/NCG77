@@ -1,83 +1,83 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="286" viewBox="0 0 880 286" fill="none">
-  <rect x="0.5" y="0.5" width="879" height="285" rx="12" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
-  <circle cx="28" cy="28" r="4" fill="#2563eb"/>
+  <rect x="0.5" y="0.5" width="879" height="285" rx="12" fill="#ffffff" stroke="#e5e0db" stroke-width="1"/>
+  <circle cx="28" cy="28" r="4" fill="#b85d2d"/>
   <text x="42" y="32" fill="#111827" font-family="'CommitMono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" font-weight="600">Tech Stack &amp; Languages</text>
   <text x="852" y="32" text-anchor="end" fill="#6b7280" font-family="'CommitMono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">PRODUCTION TOOLING</text>
-  <line x1="20" y1="48" x2="860" y2="48" stroke="#e2e8f0" stroke-width="1"/>
-  <text x="28" y="78" fill="#2563eb" font-family="'CommitMono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="600" letter-spacing="1.2">AI & AGENTS</text>
+  <line x1="20" y1="48" x2="860" y2="48" stroke="#e5e0db" stroke-width="1"/>
+  <text x="28" y="78" fill="#b85d2d" font-family="'CommitMono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="600" letter-spacing="1.2">AI &amp; AGENTS</text>
 
-        <rect x="28" y="90" width="100" height="28" rx="6" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+        <rect x="28" y="90" width="100" height="28" rx="6" fill="#f8f7f5" stroke="#e5e0db" stroke-width="1"/>
         <text x="78" y="108" text-anchor="middle" fill="#111827" font-family="'CommitMono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">Gemini API</text>
       
-        <rect x="136" y="90" width="77.19999999999999" height="28" rx="6" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+        <rect x="136" y="90" width="77.19999999999999" height="28" rx="6" fill="#f8f7f5" stroke="#e5e0db" stroke-width="1"/>
         <text x="174.6" y="108" text-anchor="middle" fill="#111827" font-family="'CommitMono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">LLaMA 3</text>
       
-        <rect x="221.2" y="90" width="66" height="28" rx="6" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+        <rect x="221.2" y="90" width="66" height="28" rx="6" fill="#f8f7f5" stroke="#e5e0db" stroke-width="1"/>
         <text x="254.2" y="108" text-anchor="middle" fill="#111827" font-family="'CommitMono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">MCP</text>
       
-        <rect x="295.2" y="90" width="66" height="28" rx="6" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+        <rect x="295.2" y="90" width="66" height="28" rx="6" fill="#f8f7f5" stroke="#e5e0db" stroke-width="1"/>
         <text x="328.2" y="108" text-anchor="middle" fill="#111827" font-family="'CommitMono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">RAG</text>
       
-        <rect x="369.2" y="90" width="92.39999999999999" height="28" rx="6" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+        <rect x="369.2" y="90" width="92.39999999999999" height="28" rx="6" fill="#f8f7f5" stroke="#e5e0db" stroke-width="1"/>
         <text x="415.4" y="108" text-anchor="middle" fill="#111827" font-family="'CommitMono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">LangChain</text>
       
-        <rect x="469.59999999999997" y="90" width="66" height="28" rx="6" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+        <rect x="469.59999999999997" y="90" width="66" height="28" rx="6" fill="#f8f7f5" stroke="#e5e0db" stroke-width="1"/>
         <text x="502.59999999999997" y="108" text-anchor="middle" fill="#111827" font-family="'CommitMono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">Ragas</text>
       
-        <rect x="543.5999999999999" y="90" width="84.8" height="28" rx="6" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+        <rect x="543.5999999999999" y="90" width="84.8" height="28" rx="6" fill="#f8f7f5" stroke="#e5e0db" stroke-width="1"/>
         <text x="585.9999999999999" y="108" text-anchor="middle" fill="#111827" font-family="'CommitMono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">Pinecone</text>
       
-        <rect x="636.3999999999999" y="90" width="84.8" height="28" rx="6" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+        <rect x="636.3999999999999" y="90" width="84.8" height="28" rx="6" fill="#f8f7f5" stroke="#e5e0db" stroke-width="1"/>
         <text x="678.7999999999998" y="108" text-anchor="middle" fill="#111827" font-family="'CommitMono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">pgvector</text>
-      <text x="28" y="150" fill="#2563eb" font-family="'CommitMono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="600" letter-spacing="1.2">FULL-STACK & SYSTEMS</text>
+      <text x="28" y="150" fill="#b85d2d" font-family="'CommitMono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="600" letter-spacing="1.2">FULL-STACK &amp; SYSTEMS</text>
 
-        <rect x="28" y="162" width="66" height="28" rx="6" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+        <rect x="28" y="162" width="66" height="28" rx="6" fill="#f8f7f5" stroke="#e5e0db" stroke-width="1"/>
         <text x="61" y="180" text-anchor="middle" fill="#111827" font-family="'CommitMono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">React</text>
       
-        <rect x="102" y="162" width="77.19999999999999" height="28" rx="6" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+        <rect x="102" y="162" width="77.19999999999999" height="28" rx="6" fill="#f8f7f5" stroke="#e5e0db" stroke-width="1"/>
         <text x="140.6" y="180" text-anchor="middle" fill="#111827" font-family="'CommitMono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">Next.js</text>
       
-        <rect x="187.2" y="162" width="115.19999999999999" height="28" rx="6" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+        <rect x="187.2" y="162" width="115.19999999999999" height="28" rx="6" fill="#f8f7f5" stroke="#e5e0db" stroke-width="1"/>
         <text x="244.79999999999998" y="180" text-anchor="middle" fill="#111827" font-family="'CommitMono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">React Native</text>
       
-        <rect x="310.4" y="162" width="77.19999999999999" height="28" rx="6" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+        <rect x="310.4" y="162" width="77.19999999999999" height="28" rx="6" fill="#f8f7f5" stroke="#e5e0db" stroke-width="1"/>
         <text x="349" y="180" text-anchor="middle" fill="#111827" font-family="'CommitMono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">Node.js</text>
       
-        <rect x="395.59999999999997" y="162" width="77.19999999999999" height="28" rx="6" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+        <rect x="395.59999999999997" y="162" width="77.19999999999999" height="28" rx="6" fill="#f8f7f5" stroke="#e5e0db" stroke-width="1"/>
         <text x="434.19999999999993" y="180" text-anchor="middle" fill="#111827" font-family="'CommitMono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">FastAPI</text>
       
-        <rect x="480.79999999999995" y="162" width="77.19999999999999" height="28" rx="6" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+        <rect x="480.79999999999995" y="162" width="77.19999999999999" height="28" rx="6" fill="#f8f7f5" stroke="#e5e0db" stroke-width="1"/>
         <text x="519.4" y="180" text-anchor="middle" fill="#111827" font-family="'CommitMono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">Express</text>
       
-        <rect x="566" y="162" width="100" height="28" rx="6" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+        <rect x="566" y="162" width="100" height="28" rx="6" fill="#f8f7f5" stroke="#e5e0db" stroke-width="1"/>
         <text x="616" y="180" text-anchor="middle" fill="#111827" font-family="'CommitMono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">PostgreSQL</text>
       
-        <rect x="674" y="162" width="77.19999999999999" height="28" rx="6" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+        <rect x="674" y="162" width="77.19999999999999" height="28" rx="6" fill="#f8f7f5" stroke="#e5e0db" stroke-width="1"/>
         <text x="712.6" y="180" text-anchor="middle" fill="#111827" font-family="'CommitMono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">MongoDB</text>
-      <text x="28" y="222" fill="#2563eb" font-family="'CommitMono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="600" letter-spacing="1.2">CLOUD, DEVOPS & LANGUAGES</text>
+      <text x="28" y="222" fill="#b85d2d" font-family="'CommitMono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="600" letter-spacing="1.2">CLOUD, DEVOPS &amp; LANGUAGES</text>
 
-        <rect x="28" y="234" width="122.8" height="28" rx="6" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+        <rect x="28" y="234" width="122.8" height="28" rx="6" fill="#f8f7f5" stroke="#e5e0db" stroke-width="1"/>
         <text x="89.4" y="252" text-anchor="middle" fill="#111827" font-family="'CommitMono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">AWS (SAA-C03)</text>
       
-        <rect x="158.8" y="234" width="69.6" height="28" rx="6" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+        <rect x="158.8" y="234" width="69.6" height="28" rx="6" fill="#f8f7f5" stroke="#e5e0db" stroke-width="1"/>
         <text x="193.60000000000002" y="252" text-anchor="middle" fill="#111827" font-family="'CommitMono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">Docker</text>
       
-        <rect x="236.4" y="234" width="130.39999999999998" height="28" rx="6" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+        <rect x="236.4" y="234" width="130.39999999999998" height="28" rx="6" fill="#f8f7f5" stroke="#e5e0db" stroke-width="1"/>
         <text x="301.6" y="252" text-anchor="middle" fill="#111827" font-family="'CommitMono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">GitHub Actions</text>
       
-        <rect x="374.79999999999995" y="234" width="66" height="28" rx="6" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+        <rect x="374.79999999999995" y="234" width="66" height="28" rx="6" fill="#f8f7f5" stroke="#e5e0db" stroke-width="1"/>
         <text x="407.79999999999995" y="252" text-anchor="middle" fill="#111827" font-family="'CommitMono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">Linux</text>
       
-        <rect x="448.79999999999995" y="234" width="69.6" height="28" rx="6" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+        <rect x="448.79999999999995" y="234" width="69.6" height="28" rx="6" fill="#f8f7f5" stroke="#e5e0db" stroke-width="1"/>
         <text x="483.59999999999997" y="252" text-anchor="middle" fill="#111827" font-family="'CommitMono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">Python</text>
       
-        <rect x="526.4" y="234" width="100" height="28" rx="6" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+        <rect x="526.4" y="234" width="100" height="28" rx="6" fill="#f8f7f5" stroke="#e5e0db" stroke-width="1"/>
         <text x="576.4" y="252" text-anchor="middle" fill="#111827" font-family="'CommitMono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">TypeScript</text>
       
-        <rect x="634.4" y="234" width="66" height="28" rx="6" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+        <rect x="634.4" y="234" width="66" height="28" rx="6" fill="#f8f7f5" stroke="#e5e0db" stroke-width="1"/>
         <text x="667.4" y="252" text-anchor="middle" fill="#111827" font-family="'CommitMono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">C++</text>
       
-        <rect x="708.4" y="234" width="66" height="28" rx="6" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+        <rect x="708.4" y="234" width="66" height="28" rx="6" fill="#f8f7f5" stroke="#e5e0db" stroke-width="1"/>
         <text x="741.4" y="252" text-anchor="middle" fill="#111827" font-family="'CommitMono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">SQL</text>
       
 </svg>

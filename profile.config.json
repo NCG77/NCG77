@@ -44,7 +44,7 @@
                     "role":  "AI Systems \u0026 Cloud Engineer",
                     "intro":  "AWS Certified Solutions Architect engineering production AI systems, FinOps platforms, and scalable cloud infrastructure.",
                     "status":  "building agentic cloud \u0026 RAG systems",
-                    "focus":  "Gen AI \u0026 Full-Stack",
+                    "focus":  "AI \u0026 Full-Stack",
                     "state":  "active",
                     "links":  [
                                   {
@@ -75,20 +75,20 @@
                                "text3":  "#999999",
                                "line":  "#343434",
                                "lineFaint":  "#292929",
-                               "accent":  "#3b82f6",
-                               "accentText":  "#60a5fa",
-                               "selected":  "#0f2547",
+                               "accent":  "#d97742",
+                               "accentText":  "#f0b286",
+                               "selected":  "#331c11",
                                "ok":  "#c7c7c7",
                                "warn":  "#b0b0b0",
                                "fail":  "#e0e0e0",
                                "languageFallback":  "#999999",
                                "auroraPalette":  [
                                                      "#121212",
-                                                     "#1e293b",
-                                                     "#1d4ed8",
-                                                     "#2563eb",
-                                                     "#3b82f6",
-                                                     "#60a5fa"
+                                                     "#261812",
+                                                     "#4a2a19",
+                                                     "#7c4223",
+                                                     "#c46b3b",
+                                                     "#f0b286"
                                                  ]
                            },
                   "light":  {
@@ -100,20 +100,20 @@
                                 "text3":  "#707070",
                                 "line":  "#c9c9c2",
                                 "lineFaint":  "#dfdfd9",
-                                "accent":  "#2563eb",
-                                "accentText":  "#1d4ed8",
-                                "selected":  "#dbeafe",
+                                "accent":  "#b85d2d",
+                                "accentText":  "#9a4a20",
+                                "selected":  "#f9ebe2",
                                 "ok":  "#444444",
                                 "warn":  "#656565",
                                 "fail":  "#292929",
                                 "languageFallback":  "#707070",
                                 "auroraPalette":  [
-                                                      "#f8fafc",
-                                                      "#e2e8f0",
-                                                      "#bfdbfe",
-                                                      "#93c5fd",
-                                                      "#3b82f6",
-                                                      "#2563eb"
+                                                      "#f8f7f5",
+                                                      "#ebe5df",
+                                                      "#dfc8b8",
+                                                      "#d4a68a",
+                                                      "#c46b3b",
+                                                      "#9a4a20"
                                                   ]
                             }
               },
